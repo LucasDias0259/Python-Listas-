@@ -1,0 +1,19 @@
+NÍVEL 1 - INICIANTE
+Exercício 1.1: Acessar Elementos
+
+Crie uma lista com 5 frutas e:
+1. Imprima o primeiro elemento
+2. Imprima o último elemento
+3. Imprima o terceiro elemento
+
+# Começar assim:
+frutas = ["maçã", "banana", "laranja", "uva", "melancia"]
+
+# Seu código aqui
+
+Saída esperada:
+
+maçã
+melancia
+laranja
+
