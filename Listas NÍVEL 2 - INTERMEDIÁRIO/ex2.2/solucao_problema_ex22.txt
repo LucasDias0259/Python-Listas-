@@ -1,0 +1,4 @@
+solucao
+
+O número 5 aparece 4 vezes
+O número 3 aparece 3 vezes

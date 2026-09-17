@@ -1,0 +1,5 @@
+solução
+
+Carlos está na posição 2
+Diana está na posição 3
+Zoe não está na lista
