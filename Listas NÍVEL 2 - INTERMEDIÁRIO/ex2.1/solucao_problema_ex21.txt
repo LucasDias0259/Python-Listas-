@@ -1,0 +1,14 @@
+solucao
+
+numeros = [1, 2, 3, 4, 5]
+
+Use um loop para imprimir cada número multiplicado por 2
+Use enumerate() para imprimir também a posição
+
+Saída esperada:
+
+Posição 0: 1 * 2 = 2
+Posição 1: 2 * 2 = 4
+Posição 2: 3 * 2 = 6
+Posição 3: 4 * 2 = 8
+Posição 4: 5 * 2 = 10
